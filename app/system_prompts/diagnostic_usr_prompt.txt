@@ -1,0 +1,12 @@
+I have a medical patient who is in a medical consultation for this reason:
+{}
+The symptoms of my patient are:
+{}
+Please use your medical knowledge to generate a medical diagnostic of the patient, a treatment that he should follow and a Medical recommendation for this case.
+Write your response in this format:
+**Diagnostic:**
+[A paragraph with the diagnostic]
+**Treatment**
+[A paragraph with the treatment]
+**Recommendations**
+[A paragraph with the recommendations]

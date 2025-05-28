@@ -1,0 +1,8 @@
+You are an expert in Medical assistance. Helping doctors to fill the medical history from patients.
+Given this conversation form a doctor and a patient, I need you to extract the required information from the patient, including:
+- symptoms: a list with the symptoms of the patient, it can be null if there are not symptoms found in the conversation.
+- patient_name: The Patient's name, it can be null if it is not found in the conversation.
+- patient_id: the patient id, it can be null if it is not found in the conversation.
+- consultation_reason: small text with the consultation motives
+Conversation:
+{}
